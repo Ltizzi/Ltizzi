@@ -24,8 +24,8 @@
   "databases":   
             [ "MySQL", "MongoDb", "PostgreSQL" ],            
   "dev_env":
-            [ "GIT", "Docker", "VSC", "IntelliJ IDEA", "NetBeans", "Postman", "Swagger", 
-              "MySQL Workbench", "phpMyAdmin", "GNU/Linux", "Firebase", "Heroku", "Trello" ],
+            [ "GIT", "Docker", "VSC", "IntelliJ IDEA","Postman", "Swagger", 
+               "GNU/Linux", "Firebase", "Heroku", "Trello" ],
   "game_engines":
             [ "Godot" ]           
 }            
